@@ -1,2 +1,4 @@
 # Department-Website
-A Simple Website from Html, css, javaScript, with simple baground Image
+A Simple Website made from Html
+CSS for layout
+JavaScript for Script running in Baground of Website
